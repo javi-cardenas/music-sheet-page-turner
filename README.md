@@ -1,6 +1,6 @@
 # Sheet Music Page Turner
 
-This page-turning device was designed with reading and multitasking in mind. While devices for eBooks already exist, our solution aimed to provide a cheaper hands-free alternative for physical sheet music books.
+This page-turning device was designed with reading and multitasking in mind. While devices for eBooks already exist, our solution primarily aimed to provide a cheaper hands-free alternative for physical sheet music books.
 
 ![Problem](Photos-Videos/motivation.png)
 
