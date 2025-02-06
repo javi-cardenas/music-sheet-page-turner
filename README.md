@@ -14,7 +14,7 @@ Our page turner uses two foot pedals as input and three servo motors to turn pag
 
 Ultimately, the device was successfully able to turn pages in both directions, consecutively turn up to 10 pages in a row, and digitally track the number of pages the user turned.
 
-Note: Feel free to take any inspiration, but this code was not intended to be cloned and deployed. As such, I do not provide support or guidance for this.
+**Note:** Feel free to take any inspiration, but this code was not intended to be cloned and deployed. As such, I do not provide support or guidance for this.
 
 <div align="center">
   <h2>Software Flow Chart</h2>
